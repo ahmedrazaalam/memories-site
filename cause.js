@@ -1,23 +1,23 @@
  // Reasons database
  const reasons = [
     { 
-        text: "You always know how to make me laugh, even on my worst days! 😊", 
+        text: "You are a complete idoit 😊", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
     { 
-        text: "jo plan hua tha , In bengali ota dee 🙈💗 ", 
+        text: "I don't like you at all 🙈💗 ", 
         emoji: "😆",
         gif: "gif2.gif"
     },
     { 
-        text: "Kitnii Chillati hy mere upar isliyee, hehehe 💕", 
-        emoji: "👂",
+        text: "i hate you 💕", 
+        emoji: "🚀",
         gif: "gif1.gif"
     },
     { 
-        text: "Our inside jokes are literally the best thing ever~", 
-        emoji: "🚀",
+        text: "to the person i have fell for a 100 times, thanks for bering by my side, A small present for you Well I wanted to get flowers you but you said koi zaruat nahi ):", 
+        emoji: "🎀",
         gif: "gif2.gif"
     }
 ];
